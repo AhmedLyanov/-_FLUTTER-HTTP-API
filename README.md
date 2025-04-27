@@ -4,7 +4,7 @@
 Flutter API App KT 7
 ## Описание
 Приложение отображает список продуктов, полученных с API, используя Dio для выполнения HTTP-запросов. Сам API был реализован в сервисе Mockapi.io
-
+# https://6744a6fdb4e2e04abea31a7f.mockapi.io/systemCards
 ## Технологии
 - Flutter
 - Dio
