@@ -1,16 +1,18 @@
-# http_works
+###ВНИМАНИЕ 
+##Сервис MockApi перестал работать в России, поэтому для того чтобы проект корректно отображал проукты из API у вас должен работать хороший впн!
+# Flutter API App KT 7
 
-A new Flutter project.
+## Описание
+Приложение отображает список продуктов, полученных с API, используя Dio для выполнения HTTP-запросов. Сам API был реализован в сервисе Mockapi.io
 
-## Getting Started
+## Технологии
+- Flutter
+- Dio
+- Ручной парсинг JSON
 
-This project is a starting point for a Flutter application.
+## Как запустить
+1. Клонировать репозиторий
+2. Выполнить `flutter pub get`
+3. Запустить приложение `flutter run` ну или F5 для отладки
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
